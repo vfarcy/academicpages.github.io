@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Valéry Farcy / My Github pages"
+title                    : "Kind of lab"
 title_separator          : "-"
 name                     : &name "Valéry Farcy"
-description              : &description "my personal description"
+description              : &description "Yet another sandbox"
 url                      : "https://vfarcy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vfarcy/vfarcy.github.io"
