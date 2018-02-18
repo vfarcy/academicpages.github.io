@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kind of lab"
+title                    : "Done is better than perfect."
 title_separator          : "-"
 name                     : &name "Valéry Farcy"
 description              : &description "Yet another sandbox"
